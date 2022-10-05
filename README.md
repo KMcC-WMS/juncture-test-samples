@@ -50,8 +50,6 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-map center="Q36600" zoom="11">
 
 # Network examples
-
-
 You can use D3 Plus to develop networks
 <param ve-d3plus-network url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv"
 
