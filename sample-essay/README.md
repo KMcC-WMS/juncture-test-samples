@@ -52,6 +52,11 @@ Others are selectable using icons displayed in the top right margin of the parag
 You are able to us the D3 library THEORETICALLY
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/KMcC-WMS/juncture-test-samples/KMcC-WMS-patch-1.5/testdatanohead.tsv" center="000 (Information)">
 
+## Network 2
+
+this should be a different kind of vis
+<param ve-vis-network title="The Dewey Decimal System" url="https://raw.githubusercontent.com/KMcC-WMS/juncture-test-samples/KMcC-WMS-patch-1.5/testdatanohead.tsv">
+
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
