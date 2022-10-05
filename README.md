@@ -49,8 +49,9 @@ Others are selectable using icons displayed in the top right margin of the parag
 # Network examples
 
 You can use D3 Plus to develop networks
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/KMcC-WMS/juncture-test-samples/main/test%20network%201.csv">
-
+<param ve-d3plus-ring-network 
+url="https://raw.githubusercontent.com/KMcC-WMS/juncture-test-samples/main/test%20network%201.csv">
+url="https://raw.githubusercontent.com/KMcC-WMS/juncture-test-samples/main/test%20network%201.csv"
 and also this
 <param ve-d3plus-network url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
 
