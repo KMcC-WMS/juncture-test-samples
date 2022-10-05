@@ -50,7 +50,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 ## Network
 
 You are able to us the D3 library THEORETICALLY
-<param ve-d3plus-network url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/data/heliconia_network_interactions.tsv" center="Heliconia imbricata">
 
 # References
 
