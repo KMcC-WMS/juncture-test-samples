@@ -1,6 +1,6 @@
-title: My new Juncture site
-tagline: With a custom tagline
-banner: https://upload.wikimedia.org/wikipedia/commons/c/c4/Himalayas_in_the_morning_light.jpg
+title: Hello World!
+tagline: Isn't this fun
+banner: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sunrise_by_Stellenwerf.jpg/640px-Sunrise_by_Stellenwerf.jpg
 #favicon: <favicon url>
 #logo: <logo url>
 
@@ -16,3 +16,7 @@ nav:
 - label: View page source
   icon: fas fa-file-code
   action: view-markdown
+- label: My new essay
+  icon: fas fa-file-code
+  action: load-page
+  path: /sample-essay
