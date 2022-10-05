@@ -52,8 +52,6 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 
 # My network example
-
-
 the other network example
 <param ve-d3plus-network url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
 
