@@ -47,7 +47,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-map center="Q36600" zoom="11">
 
 # Network examples
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/data/heliconia_network_interactions.tsv" center="Heliconia imbricata">
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/KMcC-WMS/juncture-test-samples/main/test%20network%201.csv" center="Dewey Decimal">
 
 # References
 
