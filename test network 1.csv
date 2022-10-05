@@ -1,0 +1,14 @@
+source,source.label,target,target.label,edge
+Q11028,000 (Information),Q309,900 (History),is foundational for
+Q11029,000 (Information),Q336,500 (Science),is foundational for
+Q5891,100 (Philosophy & Psychology),Q9184,200 (Religion),is distinct from
+Q5891,100 (Philosophy & Psychology),Q336,500 (Science),is foundational for
+Q9184,200 (Religion),Q309,900 (History),influences
+Q34794,300 (Social Sciences),Q34770,400 (Language),is a product of
+Q34770,400 (Language),Q336,500 (Science),influences
+Q336,500 (Science),Q5891,100 (Philosophy & Psychology),is a product of
+Q11016,600 (Technology),Q336,500 (Science),is a product of
+Q11016,600 (Technology),Q2018526,700 (Arts),is a product of
+Q2018526,700 (Arts),Q8242,800 (Literature),is distinct from
+Q8242,800 (Literature),Q34770,400 (Language),is a product of
+Q309,900 (History),Q34794,300 (Social Sciences),is foundational for
