@@ -55,7 +55,7 @@ You are able to us the D3 library THEORETICALLY
 ## Network 2
 
 this should be a different kind of vis
-<param ve-vis-network title="The Dewey Decimal System" url="https://raw.githubusercontent.com/KMcC-WMS/juncture-test-samples/KMcC-WMS-patch-1.5/testdatanohead.tsv">
+<param ve-vis-network title="Anna Maria Luisa de Medici's Network" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
 
 # References
 
