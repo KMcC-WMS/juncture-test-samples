@@ -1,3 +1,4 @@
+<script src="https://d3plus.org/js/d3.min.js" type="text/javascript"></script>
 # juncture-test-samples
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
@@ -47,7 +48,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-map center="Q36600" zoom="11">
 
 # Network examples
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/KMcC-WMS/juncture-test-samples/main/test%20network%201.csv" center="Dewey Decimal">
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/KMcC-WMS/juncture-test-samples/main/test%20network%201.csv">
 
 # References
 
