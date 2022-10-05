@@ -23,6 +23,8 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
+This is a link to [my new essay](sample-essay).
+
 ## Image
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
