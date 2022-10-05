@@ -1,4 +1,4 @@
-<script src="https://d3plus.org/js/d3.min.js" type="text/javascript"></script>
+
 # juncture-test-samples
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
@@ -48,7 +48,12 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-map center="Q36600" zoom="11">
 
 # Network examples
+
+You can use D3 Plus to develop networks
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/KMcC-WMS/juncture-test-samples/main/test%20network%201.csv">
+
+and also this
+<param ve-d3plus-network url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
 
 # References
 
